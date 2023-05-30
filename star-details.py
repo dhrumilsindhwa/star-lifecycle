@@ -48,7 +48,7 @@ def get_star_data(star_names):
     return star_data
 
 # Read the star names from a file
-with open("test_star.txt", "r") as file:
+with open("star_names.txt", "r") as file:
     star_names = [line.strip() for line in file]
 
 star_data = get_star_data(star_names)

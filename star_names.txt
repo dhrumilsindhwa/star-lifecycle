@@ -9,9 +9,9 @@ Denebola
 Epsilon Pegasi
 47 Ursae Majoris
 Alpha Herculis
-Alpha Delphini*
+Alpha Delphini
 Beta Aquarii
-Sirius*
+Sirius
 Epsilon Eridani
 Pi Sagittarii
 Alcyone_(star)
@@ -20,14 +20,13 @@ Epsilon Cygni
 Gamma Andromedae
 Alpha Crateris
 Alpha Coronae Australis
-Zeta Phoenicis*
-Beta Herculis*
+Zeta Phoenicis
+Beta Herculis
 Lambda Sagittarii
 Rho Puppis
 Mu Geminorum
----------------------------
 Gamma Aquilae
-Zeta Tauri*
+Zeta Tauri
 Gamma Virginis
 Eta Piscium
 Beta Piscium
@@ -35,11 +34,11 @@ Beta Corvi
 Xi Cancri
 Baten Kaitos
 Zeta Ceti 
-Castor*
+Castor
 Omega Herculis
-Omicron Persei*
+Omicron Persei
 Beta Aquilae
-Alcor_(star)*
+Alcor_(star)
 31 Lyncis
 Eta Ursae Majoris
 Alpha Leporis
@@ -56,7 +55,7 @@ Omicron Piscium
 Delta1 Tauri
 Alpha Aquarii
 53 Eridan
-Beta Arietis*
+Beta Arietis
 Gamma Boötis
 Beta Pegasi
 Saiph
@@ -64,7 +63,6 @@ Polaris
 Mu Sagittarii
 4 Andromedae
 Gamma Eridani
--------------------------------------------------
 Delta Leonis
 Theta Columbae
 Eta Draconis
@@ -74,20 +72,18 @@ Omicron1 Eridani
 Theta2 Tauri
 Rho1 Cancri
 Beta Tauri
-----
 Iota Draconis
 Gamma Draconis
-Gamma Crucis​
-Gamma Scorpii​
-Lambda Draconis​
-Delta Draconis​
+Gamma Crucis
+Gamma Scorpii
+Lambda Draconis
+Delta Draconis
 Arkab Posterior
 Alphecca
 Proxima Centauri
 Polaris Australis
 Alkalurops
 Algedi
--------------------------
 Aldebaran
 Epsilon Aurigae
 Alpha Corvi
@@ -111,238 +107,237 @@ Merope_(star)
 Beta Crucis
 Theta Centauri
 Beta Andromedae
-
-------------------------------
-Adhil
-Khambalia
-Matar
-Jishui
-Titawin
-Tania Borealis
-Wazn
-Theemin
-Syrma
-Merope
-Mimosa
-Menkent
-Mirach
-Menkar
-Arkab Prior
-Caph
-Deneb Algedi
+Xi Andromedae
+Lambda Virginis
+Eta Pegasi
+Theta Ursae Majoris
+Upsilon Andromedae
+Lambda Ursae Majoris
+Beta Columbae
+Epsilon Scorpii
+Iota Virginis
+23 Tauri
+Beta Crucis
+Theta Centauri
+Beta Andromedae
+Alpha Ceti
+Beta1 Sagittarii
+Beta Cassiopeiae
+Delta Capricorni
 Fomalhaut
-Rotanev
-Schedar
-Aladfar
-Ain
-Algenib
-Alkaphrah
-Alnair
-Menkalinan
-Mekbuda
-Maia
-Minchir
-Zhang
-Zubeneschamali
-Libertas
-Iklil
-Keid
-Kochab
-Xamidimura
-Tegmine
-Unurgunite
-Xuange
-Pleione
-Nusakan
+Beta Delphini
+Alpha Cassiopeiae
+Eta Lyrae
+Epsilon Tauri
+Gamma Pegasi
+Xi Cephei
+Alpha Gruis
+Beta Aurigae
+Zeta Geminorum
+20 Tauri
+Sigma Scorpii
+Omega2 Scorpii
+Beta Librae
+Theta Boötis
+Jota Coronae Borealis
+Omicron2 Eridani
+Beta Ursae Minoris
+Omicron2 Centauri
+Zeta Cancri
+Beta Normae
+Alpha Columbae
+28 Tauri
+Beta Coronae Borealis
 Pollux
-Nashira
-Naos
-Ukdah
-Ainalrami
-Acubens
-Fawaris
-Bunda
-Alruba
-Bharani
-Canopus
-Biham
-Alsephina
-Alniyat
-Alnitak
-Algol
-Alrakis
-Aldhanab
-Alula Australis
-Aludra
-Ancha
-Mothallah
-Dabih
-Errai
-Dubhe
-Dalim
-Electra
-Kaffaljidhma
-Kurhah
-Meissa
-Lilii Borea
-Haedus
-Hamal
-Pipirima
-Peacock
-Ogma
-Talitha
-Spica
-Subra
-Terebellum
-Tianyi
-Larawag
-Ginan
-Sarin
-Sadr
-Sham
-Procyon
-Rasalas
-Wasat
-Yed Posterior
-Elgafar
-Heze
-Ascella
-Botein
-Izar
-Hassaleh
-Fulu
-Alnilam
-Alphard
-Altair
-Zaniah
-Yildun
-Rasalhague
-Rastaban
-Nunki
-Nekkar
-Segin
-Acrab
-Achird
-Tarf
-Okab
-Achernar
-Kaus Australis
-Kaus Media
-Megrez
-Thuban
-Tonatiuh
-Mesarthim
-Merak
-Asellus Australis
-Ankaa
-Cervantes
-Azha
-Grumium
-Chertan
-Shaula
-Taiyangshou
-Salm
-Alfirk
-Algorab
-Adhara
-Aldulfin
-Alpheratz
-Alshat
-Alya
-Alkarab
-Alzirr
-Meleph
-Mahasim
-Minelauva
-Mebsuta
-Merga
-Zavijava
-Jabbah
-Homam
-Intercrus
-Kang
-Yed Prior
-Tiaki
-Muphrid
-Mirfak
-Praecipua
-Muliphein
-Acamar
-Azmidi
-Piautos
-Felis
-Ashlesha
-Betelgeuse
-Bellatrix
-Asterope
-Antares
-Alula Borealis
-Mintaka
-Miram
-Mirzam
-Menkib
-Dschubba
-Diadem
-Kitalpha
-Markeb
-Phecda
-Nihal
-Phact
-Nembus
-Taygeta
-Tabit
-Prima Hyadum
-Saclateni
-Ruchbah
-Propus
-Sabik
-Sadalbari
-Vindemiatrix
-Unukalhai
-Vega
-Asellus Borealis
-Atlas
-Barnard's Star
-Beemim
-Dziban
-Fang
-Celaeno
-Deneb
-Castula
-Furud
-Hadar
-Gienah
-Helvetios
-Alrescha
-Angetenar
-Arcturus
-Alsafi
-Zubenelgenubi
-Zubenelhakrabi
-Wezen
-Zibal
-Regulus
-Revati
-Musica
-Pherkad
-Aldhibah
-Alhena
-Alioth
-Algieba
-Alnasl
-Rigil Kentaurus
-Sadachbia
-Sargas
-Rigel
-Suhail
-Adhafera
-Marfik
-Marsic
-Markab
-Maasym
-Tania Australis
-Sulafat
-Taiyi
-Misam
-Mizar
-Mira
+Gamma Capricorni
+Zeta Puppis
+Theta Hydrae
+Tau Sagittarii
+Alpha Cancri
+Delta Cygni
+Xi Aquilae
+Beta Aquarii
+41 Arietis
+Alpha Carinae
+Theta Pegasi
+Delta Velorum
+Sigma Scorpii
+Zeta Orionis
+Beta Persei
+Mu Draconis
+Gamma Gruis
+Xi Ursae Majoris
+Eta Canis Majoris
+Theta Aquarii
+Alpha Trianguli
+Beta Capricorni
+Gamma Cephei
+Alpha Ursae Majoris
+Yi Sagittarii
+17 Tauri
+Gamma Ceti
+Xi Cephei
+Lambda Orionis
+39 Arietis
+Zeta Aurigae
+Alpha Arietis
+Theta1 Orionis A/B
+Alpha Pavonis
+Nu Puppis
+Iota Ursae Majoris
+Alpha Virginis
+Omicron Leonis
+Omega Sagittarii
+Theta Scorpii
+Epsilon Scorpii
+Epsilon Crucis
+Delta Herculis
+Gamma Cygni
+Alpha Sagittae
+Alpha Canis Minoris
+Mu Leonis
+Delta Geminorum
+Epsilon Ophiuchi
+Eta Indi
+Zeta Virginis
+Zeta Sagittarii
+Delta Arietis
+Epsilon Boötis
+Iota Aurigae
+Zeta Phoenicis
+Epsilon Orionis
+Alpha Hydrae
+Alpha Aquilae
+Eta Virginis
+Delta Ursae Minoris
+Alpha Ophiuchi
+Beta Draconis
+Sigma Sagittarii
+Beta Boötis
+Epsilon Cassiopeiae
+Beta Scorpii
+Eta Cassiopeiae
+Beta Cancri
+Zeta Aquilae
+Alpha Eridani
+Epsilon Sagittarii
+Delta Sagittarii
+Delta Ursae Majoris
+Alpha Draconis
+Xi Hydrae
+Gamma Arietis
+Beta Ursae Majoris
+Delta Cancri
+Alpha Phoenicis
+Mu Arae
+Eta Eridani
+Xi Draconis
+Theta Leonis
+Lambda Scorpii
+Beta Leonis Minoris
+Kappa Ursae Majoris
+Beta Cephei
+Delta Corvi
+Epsilon Canis Majoris
+Epsilon Delphini
+Alpha Andromedae
+Nu Capricorni
+Theta Serpentis
+Upsilon Scorpii
+Zeta Reticuli
+Lambda Eridani
+Theta Aurigae
+Delta Virginis
+Epsilon Geminorum
+18 Bootis
+Beta Virginis
+Nu Scorpii
+Zeta Pegasi
+Theta Ursae Majoris
+Kappa Andromedae
+Delta Ophiuchi
+Gamma Grus
+Eta Boötis
+Alpha Persei
+46 Leonis Minoris
+Gamma Canis Majoris
+Theta Eridani
+Epsilon Carinae
+Delta Eridani
+Beta Trianguli
+46 Lyncis
+Ashlesha - Epsilon Hydrae
+Alpha Orionis
+Gamma Orionis
+21 Tauri
+Alpha Scorpii
+Nu Ursae Majoris
+Delta Orionis
+Eta Persei
+Beta Canis Majoris
+Xi Persei
+Delta Scorpii
+Alpha Comae Berenices
+Beta Equulei
+Kappa Velorum
+Gamma Ursae Majoris
+Beta Leporis
+Alpha Columbae
+Gamma2 Normae
+19 Tauri
+Pi3 Orionis
+Gamma Tauri
+Beta Arietis
+Delta Cassiopeiae
+Eta Geminorum
+Eta Ophiuchi
+Mu Pegasi
+Epsilon Virginis
+Alpha Serpentis
+Alpha Lyrae
+Gamma Cancri
+27 Tauri
+V2500 Ophiuchi
+Lambda Scorpii
+Psi1 Draconis
+Xi Ursae Majoris
+16 Tauri
+Alpha Cygni
+Kappa1 Ceti
+Zeta Canis Majoris
+Beta Centauri
+Gamma Cygni
+51 Pegasi
+Alpha Piscium
+Tau2 Eridani
+Alpha Boötis
+Sigma Draconis
+Alpha2 Librae
+Mu Librae
+Delta Canis Majoris
+Zeta Eridani
+Alpha Leonis
+Zeta Piscium
+18 Delphini
+Gamma Ursae Minoris
+Zeta Draconis
+Gamma Geminorum
+Epsilon Ursae Majoris
+Gamma Leonis
+Gamma Sagittarii
+Alpha Centauri
+Gamma Aquarii
+Theta Scorpii
+Beta Orionis
+Lambda Velorum
+Zeta Leonis
+Lambda Ophiuchi
+Kappa Herculis
+Alpha Pegasi
+Lambda Herculis
+Mu Ursae Majoris
+Gamma Lyrae
+Beta Ursa Minoris
+Kappa Persei
+Zeta Ursae Majoris
+Omicron Ceti
